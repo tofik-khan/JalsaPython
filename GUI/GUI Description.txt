@@ -1,0 +1,13 @@
+Research about creating a Graphic User Interface to accomodate program behavior with entry fields, clickables and dropdowns
+
+TODO:
+Lookup how to create a  GUI.
+Find modules and functions to create a GUI.
+
+Interesting finds:
+
+Introduction to tkinter
+https://www.w3schools.in/python-tutorial/gui-programming/#Using_Tkinter
+
+Thinking in Tkinter book:
+http://thinkingtkinter.sourceforge.net/#contents_item_1
