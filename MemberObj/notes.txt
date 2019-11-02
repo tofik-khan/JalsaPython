@@ -1,0 +1,9 @@
+I have created the basic structure for the class, we can expand on this onces we implement the sections. 
+I have divided the sections, please select a section and work on it.
+
+For the Getters and Setter functions look into the python Property decorator
+https://www.geeksforgeeks.org/getter-and-setter-in-python/
+
+For the Jamat validation look for a library that will validate the city
+
+For the exception try to create a switch to return the correct error message
